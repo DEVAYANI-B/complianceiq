@@ -6,3 +6,12 @@ data/vectorstore/
 *.pyc
 /.idea/
 /.vscode/
+.env 
+backend.err 
+backend.log 
+venv310/ 
+data/vectorstore/ 
+regulation.txt 
+project_analysis.txt 
+*.pyc 
+__pycache__/ 
