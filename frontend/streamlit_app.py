@@ -1,7 +1,7 @@
 import streamlit as st
 import requests
 
-API_URL = "http://localhost:8080/api"
+API_URL = "https://complianceiq-production.up.railway.app/api"
 
 st.set_page_config(page_title="ComplianceIQ", page_icon="⚖️", layout="wide")
 
