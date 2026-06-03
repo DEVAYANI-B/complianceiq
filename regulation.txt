@@ -1,0 +1,2 @@
+Sample regulation test document for ComplianceIQ upload validation.
+This file is used to reproduce the upload endpoint error and inspect the backend response.
