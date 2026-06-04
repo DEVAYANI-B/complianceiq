@@ -1,4 +1,4 @@
-# ComplianceIQ — Intelligent Legal Compliance Assistant
+# ComplianceIQ - Intelligent Legal Compliance Assistant
 
 Lightweight RAG stack using Google Gemini for generation and ChromaDB for embeddings.
 
