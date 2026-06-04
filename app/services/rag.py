@@ -91,9 +91,8 @@ def compare_documents(regulation_query: str) -> dict:
     prompt = f"""You are a compliance gap analysis expert.
 Compare the company policy against the regulation and identify:
 1. Areas of compliance
-2. Gaps or violations
-3. Risk level for each gap (LOW / MEDIUM / HIGH / CRITICAL)
-4. Recommendations to fix each gap
+2. Gaps/violations & Risk level for each gap (LOW / MEDIUM / HIGH / CRITICAL)
+3. Recommendations to Fix Each Gap
 
 REGULATION:
 {build_context(regulation_chunks)}
