@@ -20,7 +20,7 @@ st.markdown("""
 </style>
 """, unsafe_allow_html=True)
 
-st.title("⚖️ ComplianceIQ — Intelligent Compliance Assistant")
+st.title("⚖️ ComplianceIQ - Intelligent Compliance Assistant")
 st.caption("Upload regulatory documents and company policies. Ask compliance questions instantly.")
 
 
